@@ -135,4 +135,4 @@ while True:
 		elif choice == 3:
 			sys.exit(0)
 		else:
-			print('Your choice of selection is not available. Sorry to see you again.')
+			print('Your choice of selection is not available. Sorry, see you again.')
