@@ -17,7 +17,7 @@ We can encrypt and decrypt any type of file using this tool.
 3. tqdm module is also required.
 
 ### How to use:
-1. Fork the respostory & Clone it into your local system by: git clone https://github.com/theRawrrr/Secure-File-Encryption.git
+1. Fork the repository & Clone it into your local system by: git clone https://github.com/theRawrrr/Secure-File-Encryption.git
 2. Get into your Directory "/Secure-File-Encryption"
 3. Run the tool by this command: python3 Run.py
 4. Select your desired option and provide filename with extension.
