@@ -19,9 +19,10 @@ We can encrypt and decrypt any type of file using this tool.
 ### How to use:
 1. Fork the repository & Clone it into your local system by: git clone https://github.com/theRawrrr/Secure-File-Encryption.git
 2. Get into your Directory "/Secure-File-Encryption"
-3. Run the tool by this command: python3 Run.py
-4. Select your desired option and provide filename with extension.
-5. Note: Move your respective files that need to be encrypted/decrypted to the Secure-File-Encryption directory before following the step 4. Example: (OriginalAudio.flac, OriginalImg.png, OriginalTxt) all are the files i included in this repo can be used for the encryption. Likewise, You can use your own files as well.
+3. pip install -r requirements.txt
+4. Run the tool by this command: python3 Run.py
+5. Select your desired option and provide filename with extension.
+6. Note: Move your respective files that need to be encrypted/decrypted to the Secure-File-Encryption directory before following the step 4. Example: (OriginalAudio.flac, OriginalImg.png, OriginalTxt) all are the files i included in this repo can be used for the encryption. Likewise, You can use your own files as well.
 
 
 
